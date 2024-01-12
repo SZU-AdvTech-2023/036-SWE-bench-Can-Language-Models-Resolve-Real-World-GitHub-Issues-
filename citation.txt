@@ -1,0 +1,8 @@
+@misc{REPO036,
+    author = "Jimenez, Carlos E. and Yang, John and Wettig, Alexander and Yao, Shunyu and Pei, Kexin and Press, Ofir and Narasimhan, Karthik",
+    archiveprefix = "arXiv",
+    eprint = "2310.06770",
+    primaryclass = "cs.CL",
+    title = "{SWE-bench: Can Language Models Resolve Real-World GitHub Issues?}",
+    year = "2023"
+}
